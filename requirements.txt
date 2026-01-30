@@ -1,0 +1,13 @@
+pandas
+numpy
+requests
+statsmodels
+matplotlib
+pmdarima
+scikit-learn
+xgboost
+lightgbm
+streamlit
+plotly
+kaleido
+tensorflow; python_version < "3.13"
